@@ -47,3 +47,25 @@
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=,kimms12&show_icons=true&theme=default)
+
+## 🔥 Projects
+
+### [Project Name 1](https://github.com/username/project1)
+> **Description:**  
+> A brief description of Project Name 1.  
+>  
+> **Highlights:**  
+> - Key feature 1  
+> - Key feature 2
+
+### [Project Name 2](https://github.com/username/project2)
+> **Description:**  
+> A brief description of Project Name 2.  
+>  
+> **Highlights:**  
+> - Technology used: XYZ  
+> - Main functionality
+
+### [Project Name 3](https://github.com/username/project3)
+> **Description:**  
+> A brief description of Project Name 3 with additional details if needed.
