@@ -76,3 +76,45 @@
 > - Pandas, Numpy를 활용한 EDA
 > - Matplotlib, Seaborn을 활용한 분석과정 시각화
 > - Lasso/Ridge/RF/XGB 모델 활용
+
+### [코로나 바이러스 데이터(대한민국) 분석 및 시각화](https://github.com/username/project2)
+> **Description:**  
+> MLR을 활용한 RS(팀득점) 예측.  
+>  
+> **Highlights:**  
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
+
+### [코로나 바이러스 트윗 데이터 Sentiment Analysis](https://github.com/username/project2)
+> **Description:**  
+> MLR을 활용한 RS(팀득점) 예측.  
+>  
+> **Highlights:**  
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
+
+### [MLB TEAM RS 분석 및 예측](https://github.com/username/project2)
+> **Description:**  
+> MLR을 활용한 RS(팀득점) 예측.  
+>  
+> **Highlights:**  
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
+
+### [MLB TEAM RS 분석 및 예측](https://github.com/username/project2)
+> **Description:**  
+> MLR을 활용한 RS(팀득점) 예측.  
+>  
+> **Highlights:**  
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
+
+
+
+
+
+
+
+
+
+
