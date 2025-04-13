@@ -39,6 +39,9 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat-square)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat-square)
 
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
 ### Web Development Framework
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square)
 
