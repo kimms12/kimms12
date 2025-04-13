@@ -50,22 +50,29 @@
 
 ## 🔥 Projects
 
-### [Project Name 1](https://github.com/username/project1)
+### [BASE.GG (캡스톤 디자인)](https://github.com/username/project1)
 > **Description:**  
-> A brief description of Project Name 1.  
+> 야구 데이터 및 미디어 콘텐츠를 한곳에서 모두 제공하는 데이터 플랫폼구축.
+> TEAM Project(4)  
 >  
 > **Highlights:**  
-> - Key feature 1  
-> - Key feature 2
+> - 기존의 야구 통계 제공방식과 다른 시각화를 통한 제공, 인사이트 도출
+> - ML/DL을 활용한 선수 성적 예측 및 각팀 승부예측 AI 모델 구축
+> - 데이터 크롤링 및 EDA
 
-### [Project Name 2](https://github.com/username/project2)
+### [MLB TEAM RS 분석 및 예측](https://github.com/username/project2)
 > **Description:**  
-> A brief description of Project Name 2.  
+> MLR을 활용한 RS(팀득점) 예측.  
 >  
 > **Highlights:**  
-> - Technology used: XYZ  
-> - Main functionality
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
 
-### [Project Name 3](https://github.com/username/project3)
+### [삼성 라이온즈 2019년 OPS 예측 및 데이터 분석](https://github.com/username/project3)
 > **Description:**  
-> A brief description of Project Name 3 with additional details if needed.
+> ML을 이용한 삼성라이온즈 타자 OPS 예측 및 데이터 분석을 통한 모의 타순 배치.
+>
+> **Highlights:**  
+> - Pandas, Numpy를 활용한 EDA
+> - Matplotlib, Seaborn을 활용한 분석과정 시각화
+> - Lasso/Ridge/RF/XGB 모델 활용
