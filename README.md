@@ -17,10 +17,30 @@
 - 💬 궁금한 점이나 문의: [이메일 주소 또는 링크]
 
 ## 💻 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?logo=C&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat-square)
+
+### Environments
+![AWS CLOUD](https://img.shields.io/badge/AWS_CLOUD-232F3E?logo=Amazon%20AWS&logoColor=white&style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat-square)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=Androidstudio&logoColor=white&style=flat-square)
+
+### Main Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=Pandas&logoColor=white&style=flat-square)
+![Numpy](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white&style=flat-square)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-ff6600?style=flat-square)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white&style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=flat-square)
+
+### Web Development Framework
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square)
 
 ## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=,kimms12&show_icons=true&theme=default)
